@@ -1,0 +1,16 @@
+{
+  "name": "beauty-scraper",
+  "description": "Happy and Fun, enjoy your life",
+  "version": "0.0.1",
+  "author": "Caesar Chi / clonn <clonncd@gmail.com>",
+  "contributors": [
+          { "name": "clonn", "email": "clonncd@gmail.com" }
+    ],
+  "dependencies": {
+      "jsdom": "0.2.14"
+    },
+  "keywords": ["scrap", "image", "jsdom", "node.js"],
+  "repository": "git@github.com:clonn/beauty-scraper.git",
+  "main": "index",
+  "engines": { "node":">= 0.5.0" }
+}
