@@ -5,11 +5,12 @@ scrap image from http://www.aio.com.tw/wall
 
 #Usage#
 
- * Make sure you have the latest NodeJS isntalled
+ * Make sure you have the latest NodeJS installed
  * clone the repo onto your server / host
+ * run `npm install` in the source directory
  * execute with `node index.js`
  * wait for about 1-3 minutes
- * Once complete you will have thousands of .jpg files containing data folder
+ * Once complete you will have thousands of .jpg files containing in the data folder
  * Simples.
 
 #Reference#
