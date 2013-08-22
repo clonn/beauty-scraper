@@ -5,7 +5,7 @@ scrap image from http://www.aio.com.tw/wall
 
 #Usage#
 
- * Make sure you have the latest NodeJS isntalled
+ * Make sure you have the latest NodeJS installed
  * clone the repo onto your server / host
  * execute with `node index.js`
  * wait for about 1-3 minutes
